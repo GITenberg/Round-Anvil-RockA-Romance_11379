@@ -1,0 +1,25 @@
+_repo: Round-Anvil-RockA-Romance_11379
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Banks, Nancy Huston
+    gutenberg_agent_id: '3960'
+    url: http://www.gutenberg.org/2009/agents/3960
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11379'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcc 'PS'
+- !lcsh 'Jackson, Andrew, 1767-1845 -- Fiction'
+- !lcsh 'Kentucky -- Fiction'
+- !lcsh 'Love stories'
+- GITenberg
+title: 'Round Anvil Rock: A Romance'
+url: http://www.gutenberg.org/ebooks/11379
